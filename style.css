@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+button{
+    height: 80px;
+}
